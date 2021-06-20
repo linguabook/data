@@ -1,0 +1,729 @@
+[
+  {
+    "source": {
+      "type": "visual",
+      "name": "Unsplash Pictures",
+      "url": "https://unsplash.com/s/photos/so"
+    },
+    "data": {
+      "visual": [
+        "https://images.unsplash.com/photo-1585055968521-7419c176b14e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c298ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+        "https://images.unsplash.com/photo-1557588409-53e9724e4e99?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c298ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+        "https://images.unsplash.com/photo-1609846705099-5cd491c6f4c8?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c298ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+      ]
+    }
+  },
+  {
+    "source": {
+      "type": "universal",
+      "name": "Merriam Webster",
+      "url": "https://www.merriam-webster.com/dictionary/so"
+    },
+    "data": {
+      "audio": [
+        "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/so000001.mp3",
+        "https://media.merriam-webster.com/audio/prons/en/us/mp3/s/sol10002.mp3"
+      ],
+      "transcription": [
+        "ˈsō",
+        "especially before an adjective or adverb followed by \"that\"  sə"
+      ],
+      "definition": [
+        "in a manner or way indicated or suggested                                      \n             \n             do you really think so",
+        "in the same manner or way : also                                      \n             \n             worked hard and so did she",
+        "thus sense 1                                      \n             \n             for so the Lord said",
+        "then, subsequently                                      \n             \n             and so home and to bed",
+        "to an indicated or suggested extent or degree                                      \n             \n             had never been so happy",
+        "to the same extent or degree : to such a degree : as sense 1",
+        "to a great extent or degree : very, extremely                                      \n             \n             loves her so",
+        "to a definite but unspecified extent or degree                                      \n             \n             can only do so much in a day",
+        "most certainly : indeed                                      \n             \n             you did so do it",
+        "most decidedly : surely                                      \n             \n             I so don't believe you",
+        "therefore, consequently                                      \n             \n             the witness is biased and so unreliable",
+        "with the result that                                      \n             \n             the acoustics are good, so every note is clear",
+        "in order that                                      \n             \n             be quiet so he can sleep",
+        "provided that",
+        "for that reason : therefore                                      \n             \n             don't want to go, so I won't",
+        "—used as an introductory particle          so here we are             often to belittle a point under discussion          so what?",
+        "—used interjectionally to indicate awareness of a discovery          so, that's who did it             or surprised dissent",
+        "in order to",
+        "conforming with actual facts : true                                      \n             \n             said things that were not so",
+        "marked by a desired order                                      \n             \n             his books are always just so",
+        "—used to replace a preceding adjective          was witty by adult standards and of course doubly so by mine— Sally Kempton",
+        "such as has been specified or suggested : the same                                      \n             \n             if you have to file a claim, do so as soon as possible",
+        "—used in the phrase or so to indicate an estimate, approximation, or conjecture          stayed a week or socost $15 or so",
+        "the fifth note of the major scale in solfège",
+        "south; southern",
+        "seller's option",
+        "strikeout",
+        "to a degree that is suggested or stated",
+        "to a great degree : very or extremely",
+        "without any doubt",
+        "for that reason : and therefore",
+        "—used to say the reason for something",
+        "—used in speech to introduce a statement or question",
+        "agreeing with actual facts",
+        "—used to refer to something that has just been stated or suggested",
+        "in the way indicated                                      \n             \n             I said I'd go and did so.",
+        "in the same way : also                                      \n             \n             They wrote well and so did you.",
+        "then entry 1 sense 2                                      \n             \n             Wash your face and so to bed.",
+        "to an indicated extent or way                                      \n             \n             He had never felt so well.",
+        "to a great degree : very, extremely                                      \n             \n             She loved them so.",
+        "to a definite but not specified amount                                      \n             \n             A person can do only so much in a day.",
+        "most certainly : indeed                                      \n             \n             You did so say it!",
+        "therefore                                      \n             \n             I'm honest and so told the truth.",
+        "in order that                                      \n             \n             Be quiet so I can sleep!",
+        "and therefore                                      \n             \n             We were hungry, so we ate.",
+        "the same : that                                      \n             \n             They told me so.",
+        "approximately that                                      \n             \n             I'd been there a month or so.",
+        "south"
+      ],
+      "in": [
+        "do you really think so",
+        "are you ready? I think so",
+        "I didn't like it and I told her so",
+        "worked hard and so did she",
+        "for so the Lord said",
+        "and so home and to bed",
+        "had never been so happy",
+        "thought that his share wasn't so big as his brother's",
+        "loves her so",
+        "can only do so much in a day",
+        "you did so do it",
+        "I so don't believe you",
+        "the witness is biased and so unreliable",
+        "the acoustics are good, so every note is clear",
+        "be quiet so he can sleep",
+        "don't want to go, so I won't",
+        "so here we are",
+        "so what?",
+        "so, that's who did it",
+        "said things that were not so",
+        "his books are always just so",
+        "was witty by adult standards and of course doubly so by mine",
+        "if you have to file a claim, do so as soon as possible",
+        "stayed a week or so",
+        "cost $15 or so",
+        "why is American television so shallow?",
+        "the cephalopod eye is an example of a remarkable evolutionary parallel because it is so like the eye of a vertebrate",
+        "the kind of sterile over-ingenuity which afflicts so many academic efforts",
+        "not so long ago",
+        "was so good in mathematics that he began to consider engineering",
+        "I don't think they can score twice in so short a time.",
+        "There has always been an interest in genetic cloning, but never more so than in recent years.",
+        "He looked so handsome in his suit.",
+        "We are all so excited about the trip.",
+        "I'm so happy that you decided to join us for dinner.",
+        "I feel so much better after taking that nap.",
+        "Thank you so much for your help.",
+        "He dislikes her so much that he won't even talk to her.",
+        "The test was not so very hard after all.",
+        "“He is about so tall,” she said, raising her hand about six feet in the air.",
+        "We were bored with the movie, so we left.",
+        "I don't want to go, so I won't.",
+        "There are no more chairs available, so you'll have to stand.",
+        "You are saying things that are just not so.",
+        "I heard you met the president—is that so?",
+        "I said I'd go and did so.",
+        "They wrote well and so did you.",
+        "Wash your face and so to bed.",
+        "He had never felt so well.",
+        "Don't be so rude!",
+        "She loved them so.",
+        "A person can do only so much in a day.",
+        "You did so say it!",
+        "I'm honest and so told the truth.",
+        "Be quiet so I can sleep!",
+        "We were hungry, so we ate.",
+        "They told me so.",
+        "I'd been there a month or so."
+      ],
+      "related": [],
+      "tag": [
+        "adverb",
+        "conjunction",
+        "adjective",
+        "pronoun",
+        "noun",
+        "abbreviation (1)",
+        "abbreviation (2)",
+        "abbreviation"
+      ]
+    }
+  },
+  {
+    "source": {
+      "type": "universal",
+      "name": "Macmillan Dictionary",
+      "url": "https://www.macmillandictionary.com/dictionary/british/so"
+    },
+    "data": {
+      "audio": [
+        "https://www.macmillandictionary.com/media/british/uk_pron/s/so_/so_Br/so_British_English_pronunciation_98751.mp3",
+        "https://www.macmillandictionary.com/media/british/uk_pron_ogg/s/so_/so_Br/so_British_English_pronunciation_98751.ogg"
+      ],
+      "transcription": [
+        "/səʊ/"
+      ],
+      "tag": [
+        "adverb",
+        "conjunction",
+        "noun",
+        "adjective",
+        "phrase"
+      ],
+      "definition": [
+        "used for emphasizing a quality, feeling, or amount",
+        "used when you are emphasizing a fact by saying what the result of it is",
+        "used for saying that someone does something a lot or feels something strongly",
+        "used for emphasis with a negative. This is mainly used by young people",
+        "used for referring back to a possibility, fact, or situation that has just been mentioned",
+        "used for saying that something that was just said is also true about another person or thing",
+        "used for saying that something happens or someone does something because of what you have just mentioned",
+        "used for saying what the purpose of an action is",
+        "used for continuing a conversation, especially for starting a new subject or starting to ask a question",
+        "used for introducing a question in order to make sure that what you have heard or noticed is correct",
+        "used when showing someone how something should be done",
+        "used when describing something and using your hands to show its size",
+        "used for saying that someone makes or arranges something in such a way that there is a particular result",
+        "used for introducing a known fact before you make a comment to show that it does not matter",
+        "used for saying that a number or amount is limited"
+      ],
+      "in": [
+        "I’m so glad you could come.",
+        "Thank you for looking after me so well.",
+        "The food’s wonderful, but it’s so expensive!",
+        "so much/many: Like so many great artists, he died young.",
+        "The children couldn’t sleep, they were so excited.",
+        "so...(that): The road surface became so hot that it melted.",
+        "Everything’s changed so much I can scarcely recognize the place.",
+        "so...as to be: His comments on the book were so childish as to be not worth considering.",
+        "so love/enjoy/appreciate etc: She so loved watching the children play.",
+        "worry/suffer etc so: You shouldn’t worry so. Nothing’s going to happen to us.",
+        "I am so over that guy!",
+        "I think/suppose/expect/hope etc so: You’re in love with Rita, aren’t you? I thought so.",
+        "‘You’re not really going to resign?’ ‘No, I don’t suppose so.’",
+        "say so/tell someone so: If you wanted to leave early, you should have said so.",
+        "so they say/so they tell me/so I understand: I’m a quick learner. Or so they tell me.",
+        "if so: Does the President intend to go to Moscow? And if so, when?",
+        "more so/less so/very much so: ‘Is Sybil the outdoor type?’ ‘Oh yes, very much so.’",
+        "so is/does/can/will etc someone: Heidi is planning to come, and so is Sylvia.",
+        "My parents send their love, and so does Rachel.",
+        "‘I’d like to know what’s happening out there.’ ‘So would I.’",
+        "If I learned how to drive a car, so can you.",
+        "She thought there might have been an accident, so she called the police.",
+        "He was born in France, so he also has a French passport.",
+        "A tree had fallen across the road, so they had to turn round and go back.",
+        "so that: The window was covered so that it was not possible to see inside.",
+        "so (that): He lowered his voice so no one would hear.",
+        "I’ll get a map so that we can plan where we’re going.",
+        "so as (not) to do something: In Tehran the wives of foreign diplomats wore headscarves so as not to offend the Iranians.",
+        "The Athletics Federation has introduced stricter regulations so as to prevent cheating.",
+        "So, let’s get down to business.",
+        "So, what do you suggest we do next?",
+        "So, you’ve finally decided to come with us?",
+        "Tie the two ends together, like so.",
+        "Grasp the handle with both hands, so.",
+        "I need a couple of metal rods about so long.",
+        "Each course of studies was so arranged that students could combine their education with part-time work.",
+        "The architect had so designed the rooms that every window overlooked the lake.",
+        "Okay, so the guy made a few mistakes. That doesn’t mean he isn’t a good player.",
+        "I can only listen to her complaints for so long before I start to get angry.",
+        "only so much/many: We have only so much time before the exams start.",
+        "There are only so many police officers available for controlling the crowds.",
+        "and so on/forth",
+        "and so someone/something is",
+        "be so",
+        "do so",
+        "just as... so (too)",
+        "not so",
+        "not so... (as)",
+        "or so",
+        "so be it",
+        "so it is/so there are/so I have etc",
+        "so long",
+        "so (what)?"
+      ],
+      "synonym": [
+        "very",
+        "particularly",
+        "deeply",
+        "actually",
+        "certainly",
+        "clearly",
+        "therefore",
+        "consequently",
+        "accordingly",
+        "by",
+        "disproportionate",
+        "double"
+      ]
+    }
+  },
+  {
+    "source": {
+      "type": "universal",
+      "name": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english/so"
+    },
+    "data": {
+      "audio": [
+        "/media/english/uk_pron/u/uks/uksev/ukseven010.mp3",
+        "/media/english/uk_pron_ogg/u/uks/uksev/ukseven010.ogg",
+        "/media/english/us_pron/s/sew/sew__/sew.mp3",
+        "/media/english/us_pron_ogg/s/sew/sew__/sew.ogg",
+        "/media/english/uk_pron/e/epd/epd25/epd25996.mp3",
+        "/media/english/uk_pron_ogg/e/epd/epd25/epd25996.ogg"
+      ],
+      "transcription": [
+        "səʊ",
+        "soʊ"
+      ],
+      "tag": [
+        "adverb",
+        "conjunction",
+        "adjective",
+        "noun",
+        "singular",
+        "uncountable"
+      ],
+      "definition": [
+        "very, extremely, or to such a degree:",
+        "used before a noun or before \"not\" to emphasize what is being said:",
+        "used at the end of a sentence to mean to a very great degree:",
+        "used usually before the verbs \"have\", \"be\", or \"do\", and other auxiliary verbs to express the meaning \"in the same way\" or \"in a similar way\":",
+        "used to avoid repeating a phrase mentioned earlier:",
+        "used to say that a situation mentioned earlier is correct or true:",
+        "used to say that a fact that has just been stated is certainly true:",
+        "used instead of repeating an adjective that has already been mentioned:",
+        "used, especially by children, to argue against a negative statement:",
+        "to act in the way mentioned:",
+        "in this way, or like this:",
+        "used when you are showing how something is done:",
+        "used when you are representing the size of something:",
+        "used at the beginning of a sentence to connect it with something that has been said or has happened previously:",
+        "used as a way of making certain that you or someone else understand something correctly, often when you are repeating the important points of a plan:",
+        "used to refer to a discovery that you have just made:",
+        "used as a short pause, sometimes to emphasize what you are saying:",
+        "used before you introduce a subject of conversation that is of present interest, especially when you are asking a question:",
+        "used to show that you agree with something that someone has just said, but you do not think that it is important:",
+        "and for that reason; therefore:",
+        "used before you give an explanation for the action that you have just mentioned:",
+        "in order to:",
+        "in order not to:",
+        "perfectly tidy and well arranged:",
+        "the musical note \n        \n         soh",
+        "to such a great degree; very:",
+        "(used usually before the verbs have, be, do, and other auxiliary verbs) in the same way; similarly:",
+        "true, or truly:",
+        "more or less like this or in this way:",
+        "So is also used to suggest the approximate size of someone or something:",
+        "(used instead of repeating something that has just been mentioned) it is the situation:",
+        "in order that, or with the result that:",
+        "abbreviation for south or southern"
+      ],
+      "visual": [],
+      "in": [
+        "The house is so beautiful.",
+        "Thank you for being so patient.",
+        "Don't be so stupid!",
+        "I didn't know she had so many children!",
+        "You can only do so much to help (= there is a limit to how much you can help).",
+        "She's ever so kind and nice.",
+        "I'm so tired (that) I could sleep in this chair!",
+        "I'm not so desperate as to agree to that.",
+        "The word itself is so rare as to be almost obsolete.",
+        "Don't wear that - it's so last year (= it was fashionable last year but not now).",
+        "I'm sorry, but she is so not a size 10 (= she is very much larger than a size 10).",
+        "Is that why you hate him so?",
+        "You worry so!",
+        "\"I've got an enormous amount of work to do.\" \"So have I.\"",
+        "\"I'm allergic to nuts.\" \"So is my brother.\"",
+        "Neil left just after midnight and so did Roz.",
+        "Just as you like to have a night out with the lads, so I like to go out with the girls now and again.",
+        "\"I hope they stay together.\" \"I hope so too.\"",
+        "\"Do you think he's upset?\" \"I don't think so.\"",
+        "James is coming tonight, or so he said.",
+        "\"Is it true that we're not getting a pay increase this year?\" \"I'm afraid so.\"",
+        "\"Anthony and Mia don't get along very well.\" \"Is that so?\"",
+        "\"The forecast says it might rain.\" \"If so, we'll have the party inside.\"",
+        "\"My eyes are slightly different colours.\" \"So they are.\"",
+        "\"That's her brother - he looks like James Dean.\" \"So he does.\"",
+        "She's reasonable to work with - more so than I was led to believe.",
+        "He's fairly bright - well, certainly more so than his brother.",
+        "\"You didn't even see the movie.\" \"I did so!\"",
+        "Parents must take responsibility for their children. Failure to do so could mean a fine or a jail sentence.",
+        "The pillars, which are outside the building, are so placed in order to provide the maximum space inside.",
+        "I've so arranged my trip that I'll be home on Friday night.",
+        "Just fold this piece of paper back, so, and make a crease here.",
+        "Gently fold in the eggs like so.",
+        "\"How tall is he next to you?\" \"Oh, about so big,\" she said, indicating the level of her neck.",
+        "\"The table that I liked best was about so wide,\" she said, holding her arms out a metre and a half.",
+        "So, there I was standing at the edge of the road with only my underwear on ...",
+        "So, just to finish what I was saying earlier...",
+        "So we leave on the Thursday and get back the next Tuesday, is that right?",
+        "So that's what he does when I'm not around!",
+        "So, here we are again - just you and me.",
+        "So, who do you think is going to win the election?",
+        "So the car's expensive - well, I can afford it.",
+        "My knee started hurting so I stopped running.",
+        "I was lost so I bought a street map.",
+        "I deliberately didn't have lunch so (that) I would be hungry tonight.",
+        "Leave the keys out so (that) I remember to take them with me.",
+        "I always keep fruit in the fridge so as to keep flies off it.",
+        "He did not switch on the light so as not to disturb her.",
+        "He's a perfectionist - everything has to be just so.",
+        "He’s so stupid he’d believe anything you tell him.",
+        "Our families live so far away.",
+        "He was interested, and so were a lot of other people.",
+        "He thinks I’m out to get him, but that simply isn’t so.",
+        "Grandpa could be generous when he so desired.",
+        "The box is about so big.",
+        "\"I hope our paths cross again.\" \"I hope so too.\"",
+        "My knee started hurting, so I stopped running.",
+        "They moved so they could be closer to her family."
+      ],
+      "collocation": []
+    }
+  },
+  {
+    "source": {
+      "type": "universal",
+      "name": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english-russian/so"
+    },
+    "data": {
+      "translated_as@ru": [
+        "так",
+        "до такой степени",
+        "употребляется для избежания повтора предшествующего высказывания да",
+        "и мы тоже/и я тоже/и мой тоже и т. д.",
+        "ну так",
+        "ну и",
+        "вот такой",
+        "вот так",
+        "так оно и есть",
+        "в самом деле",
+        "действительно",
+        "или около того",
+        "я же говорил тебе",
+        "ну и что?",
+        "и так далее",
+        "чтобы (не) сделать что-либо",
+        "есть предел чему-либо",
+        "только до какой-либо степени",
+        "вот вам и …",
+        "так что",
+        "поэтому",
+        "для того чтобы",
+        "быть правдой"
+      ]
+    }
+  },
+  {
+    "source": {
+      "type": "universal",
+      "name": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english-french/so"
+    },
+    "data": {
+      "translated_as@fr": [
+        "si",
+        "aussi",
+        "tellement",
+        "Il y a si longtemps que nous nous sommes vus.",
+        "Tu sembles tellement belle.",
+        "tellement/si … (que)",
+        "J’étais tellement furieux que je n’avais plus les idées claires.",
+        "pas si/aussi …",
+        "Ça n’est pas si terrible",
+        "si ?",
+        "le/l’",
+        "“Penses-tu qu’il fera beau ce week-end ?” “Je l’espère.”",
+        "également",
+        "C’est une petite fille tellement polie et sa sœur aussi.",
+        "alors",
+        "Alors",
+        "on peut y aller maintenant ?",
+        "comme ceci/cela/ça",
+        "Mélangez ensemble la farine et le beurre comme ceci.",
+        "un insecte noir grand environ comme ça",
+        "pas plus de",
+        "Je peux attendre si longtemps avant de commencer à m’énerver.",
+        "à peu près",
+        "environ",
+        "Nous aurons besoin d’une dizaine de / d’environ dix bouteilles d’eau.",
+        "et alors ?",
+        "“Tu n’as pas encore fini !” “Et alors ?” “J’ai le temps !”",
+        "de façon à ce que",
+        "Nous n’en avons pas parlé de façon à ce qu’elle ne se vexe pas.",
+        "donc",
+        "par conséquent",
+        "Nous avons fini ceci",
+        "alors commençons le suivant.",
+        "Je ne dormais pas",
+        "donc je suis allé voir le médecin.",
+        "ainsi",
+        "cela",
+        "de même",
+        "en effet"
+      ]
+    }
+  },
+  {
+    "source": {
+      "type": "universal",
+      "name": "Cambridge Dictionary",
+      "url": "https://dictionary.cambridge.org/dictionary/english-german/so"
+    },
+    "data": {
+      "translated_as@de": [
+        "so",
+        "das",
+        "so … dass",
+        "auch",
+        "tatsächlich",
+        "also"
+      ]
+    }
+  },
+  {
+    "source": {
+      "type": "universal",
+      "name": "Urban Dictionary",
+      "url": "https://www.urbandictionary.com/define.php?term=so"
+    },
+    "data": {
+      "audio": [
+        "http://wav.urbandictionary.com/so-24999.wav\",\"http://wav.urbandictionary.com/so-24998.wav"
+      ],
+      "definition": [
+        "n., Acronym - 'Significant Other'.",
+        "Marginalized Orientations, Gender identities, And Intersex. it’s meant to be an all inclusive umbrella term for asexuals, homosexuals, multisexuals, trans people, and intersex people. Alternative to LGBTQIAP+\nAlternative to MOGII, easier to pronounce.",
+        "Abbreviation for \"Significant Other\". The gender-neutral way to refer to someone's boy/girlfriend.",
+        "The first word of any answer given by a know-it-all douchebag, said to give the effect that they were already speaking when you asked your question or requested their opinion, in order to feign superiority or to imply that they knew what you wanted to know before you inquired.",
+        "a quicker way of saying:\n\n1) who cares?\n2) what's your point?\n3) why does this / it matter?\n\netc.",
+        "n., Acronym - Source of Orgasm. Although \"Significant Other\" is another, widely used, interpretation, Source of Orgasm really brings it down on the spot.",
+        "Means \"significant other\"."
+      ]
+    }
+  },
+  {
+    "source": {
+      "type": "audio",
+      "name": "Forvo",
+      "url": "https://ru.forvo.com/word/so/#en"
+    },
+    "data": {
+      "audio": [
+        {
+          "url": "https://audio00.forvo.com/audios/mp3/e/7/e7_9218662_39_2525821.mp3",
+          "author": "gemmelo",
+          "gender": "f",
+          "country": "great britain"
+        },
+        {
+          "url": "https://audio00.forvo.com/audios/mp3/c/f/cf_9001254_39_2525821.mp3",
+          "author": "stevefitch",
+          "gender": "m",
+          "country": "great britain"
+        },
+        {
+          "url": "https://audio00.forvo.com/audios/mp3/m/d/md_9079187_39_2525821.mp3",
+          "author": "joshisanonymous",
+          "gender": "m"
+        },
+        {
+          "url": "https://audio00.forvo.com/audios/mp3/g/5/g5_9033728_39_2525821.mp3",
+          "author": "agosta",
+          "gender": "m"
+        },
+        {
+          "url": "https://audio00.forvo.com/audios/mp3/s/7/s7_9518804_39_2525821.mp3",
+          "author": "lauramac",
+          "gender": "f"
+        },
+        {
+          "url": "https://audio00.forvo.com/audios/mp3/4/m/4m_9665640_39_2525821.mp3",
+          "author": "mikebill",
+          "gender": "m"
+        },
+        {
+          "url": "https://audio00.forvo.com/audios/mp3/d/3/d3_9497651_39_2525821.mp3",
+          "author": "nervebrain",
+          "gender": "m"
+        },
+        {
+          "url": "https://audio00.forvo.com/audios/mp3/4/8/48_9374160_39_2525821.mp3",
+          "author": "frakkintoaster",
+          "gender": "f"
+        },
+        {
+          "url": "https://audio00.forvo.com/audios/mp3/l/p/lp_9030727_39_2525821.mp3",
+          "author": "glass",
+          "gender": "f",
+          "country": "canada"
+        },
+        {
+          "url": "https://audio00.forvo.com/audios/mp3/y/f/yf_9488892_39_2525821.mp3",
+          "author": "Neptunium",
+          "gender": "m",
+          "country": "australia"
+        },
+        {
+          "url": "https://audio00.forvo.com/audios/mp3/p/c/pc_9218640_34_2525821.mp3",
+          "author": "Thonatas",
+          "gender": "m",
+          "country": "germany"
+        },
+        {
+          "url": "https://audio00.forvo.com/audios/mp3/9/0/90_9233940_34_2525821.mp3",
+          "author": "Bartleby",
+          "gender": "m",
+          "country": "germany"
+        },
+        {
+          "url": "https://audio00.forvo.com/audios/mp3/q/f/qf_9389135_33_2525821.mp3",
+          "author": "Martinouko",
+          "gender": "m",
+          "country": "denmark"
+        },
+        {
+          "url": "https://audio00.forvo.com/audios/mp3/1/4/14_9922126_4_2525821.mp3",
+          "author": "nickkuhne",
+          "gender": "m",
+          "country": "malaysia"
+        },
+        {
+          "url": "https://audio00.forvo.com/audios/mp3/b/t/bt_9566147_74_2525821.mp3",
+          "author": "Incio",
+          "gender": "m",
+          "country": "italy"
+        },
+        {
+          "url": "https://audio00.forvo.com/audios/mp3/k/8/k8_9459069_74_2525821.mp3",
+          "author": "giorgiospizzi",
+          "gender": "m",
+          "country": "italy"
+        },
+        {
+          "url": "https://audio00.forvo.com/audios/mp3/2/x/2x_9575634_178_2525821.mp3",
+          "author": "lonngoc",
+          "gender": "m",
+          "country": "vietnam"
+        },
+        {
+          "url": "https://audio00.forvo.com/audios/mp3/t/4/t4_9327468_94_2525821.mp3",
+          "author": "piral58",
+          "gender": "m",
+          "country": "luxembourg"
+        },
+        {
+          "url": "https://audio00.forvo.com/audios/mp3/8/k/8k_9809117_148_2525821.mp3",
+          "author": "Urbanija",
+          "gender": "m",
+          "country": "slovenia"
+        },
+        {
+          "url": "https://audio00.forvo.com/audios/mp3/d/j/dj_9866538_189_2525821.mp3",
+          "author": "Holli67",
+          "gender": "m",
+          "country": "germany"
+        },
+        {
+          "url": "https://audio00.forvo.com/audios/mp3/j/3/j3_9585728_339_2525821.mp3",
+          "author": "sameeruddowlakhan",
+          "gender": "m"
+        },
+        {
+          "url": "https://audio00.forvo.com/audios/mp3/k/t/kt_10035903_157_2525821.mp3",
+          "author": "obsoletmanet",
+          "gender": "m",
+          "country": "sweden"
+        },
+        {
+          "url": "https://audio00.forvo.com/audios/mp3/4/s/4s_9935600_452_2525821.mp3",
+          "author": "Radioop",
+          "gender": "m",
+          "country": "russia"
+        },
+        {
+          "url": "https://audio00.forvo.com/audios/mp3/e/6/e6_9323906_230_2525821.mp3",
+          "author": "ness1",
+          "gender": "m",
+          "country": "italy"
+        },
+        {
+          "url": "https://audio00.forvo.com/audios/mp3/1/1/11_9408458_23_2525821.mp3",
+          "author": "3559584",
+          "gender": "f",
+          "country": "bosnia and herzegovina"
+        },
+        {
+          "url": "https://audio00.forvo.com/audios/mp3/j/2/j2_9314905_41_2525821.mp3",
+          "author": "Covarrubias",
+          "gender": "m",
+          "country": "spain"
+        },
+        {
+          "url": "https://audio00.forvo.com/audios/mp3/u/h/uh_9461731_43_2525821.mp3",
+          "author": "anttongu",
+          "gender": "m",
+          "country": "spain"
+        },
+        {
+          "url": "https://audio00.forvo.com/audios/mp3/u/n/un_9015526_153_2525821.mp3",
+          "author": "Milan",
+          "gender": "m",
+          "country": "serbia"
+        },
+        {
+          "url": "https://audio00.forvo.com/audios/mp3/r/s/rs_8973927_325_2525821.mp3",
+          "author": "slin",
+          "gender": "m",
+          "country": "germany"
+        },
+        {
+          "url": "https://audio00.forvo.com/audios/mp3/p/x/px_9233940_302_2525821.mp3",
+          "author": "Bartleby",
+          "gender": "m",
+          "country": "germany"
+        },
+        {
+          "url": "https://audio00.forvo.com/audios/mp3/w/3/w3_9338584_24_2525821.mp3",
+          "author": "Forcat",
+          "gender": "f",
+          "country": "spain"
+        }
+      ]
+    }
+  },
+  {
+    "source": {
+      "type": "audio",
+      "name": "HowJSay.com",
+      "url": "https://howjsay.com/mp3/so.mp3"
+    },
+    "data": {
+      "audio": [
+        {
+          "url": "https://howjsay.com/mp3/so.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "source": {
+      "type": "text",
+      "name": "Compromise Lexicon",
+      "url": "http://compromise.cool/"
+    },
+    "data": {
+      "tag": [
+        [
+          "Expression"
+        ]
+      ]
+    }
+  }
+]

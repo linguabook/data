@@ -1,0 +1,14 @@
+{
+  "name": "linguabook-data",
+  "version": "0.0.0",
+  "description": "Pre-generated content for https://linguabook.github.io",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lingua-scraper": "^0.17.4",
+    "p-series": "^2.1.0"
+  },
+  "scripts": {
+    "fetch": "node fetch.js"
+  }
+}
